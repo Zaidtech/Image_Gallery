@@ -1,0 +1,36 @@
+img{
+    width:390px;
+    height:390px;
+    float: left;
+    margin:1.66%;
+    -webkit-filter: grayscale();
+    box-shadow: black;
+    
+    
+}
+/* .container{
+    display:wrap;
+    flex-wrap: wrap;
+} */
+h1{
+    font-size:70px;
+    text-align: center;
+    border-bottom: 3px solid rgb(155, 154, 154);
+    width:7em;
+    color:#6b6464;
+   
+}
+body{
+    background-color:rgb(240, 238, 239)
+}
+img:hover{
+    box-shadow: 4px 5px 20px 3px black;
+    border-radius: 20px;
+    -webkit-filter: none;
+    width: 50%;
+    height:50%;
+    animation-direction: normal;   
+} 
+h1:focus{
+  color:purple;
+}
