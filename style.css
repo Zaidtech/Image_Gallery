@@ -27,10 +27,13 @@ img:hover{
     box-shadow: 4px 5px 20px 3px black;
     border-radius: 20px;
     -webkit-filter: none;
-     width: 50%;
-    height:50%;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100hv;
+    heigth:100hv;
+}
    
-} 
 h1:focus{
   color:purple;
 }
