@@ -30,8 +30,8 @@ img:hover{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:100hv;
-    heigth:100hv;
+    width:50%;
+    height:50%;
 }
    
 h1:focus{
